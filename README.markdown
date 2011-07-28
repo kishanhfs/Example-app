@@ -5,9 +5,3 @@ This is the first application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 
-
-
-Testing -2 first line
-Conflict-1  This is the First Commit line in Testing -1 branch
-
------> This is the second commit line in Testing-1 branch after merge of Test-2 branch in Master
