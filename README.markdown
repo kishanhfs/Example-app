@@ -6,4 +6,6 @@ by [Michael Hartl](http://michaelhartl.com/).
 
 
 
-Conflict-1
+Conflict-1  This is the First Commit line in Testing -1 branch
+
+-----> This is the second commit line in Testing-1 branch after merge of Test-2 branch in Master
