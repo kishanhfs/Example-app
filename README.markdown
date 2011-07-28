@@ -5,5 +5,4 @@ This is the first application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 
-Hello kishan this is a confilct test...............
 
